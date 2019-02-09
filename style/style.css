@@ -1,0 +1,30 @@
+#circle {
+  width: 500px;
+  height: 500px;
+  border-radius: 250px;
+  background: yellow;
+  margin-top: 50px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h3 {
+  margin-left: 66px;
+}
+
+#action-list ul {
+  margin-left: -69px;
+}
+
+#action-list ul li {
+  list-style-type: none;
+}
+
+#action-list ul li a {
+  text-decoration: none;
+  color: black;
+}
